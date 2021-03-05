@@ -23,5 +23,7 @@ app.get('/', (req, res) => {
  });
  app.listen(8082);
 
- console.log('8082 é a porta mágica!')
+ console.log('Servidor iniciado!')
+ console.log('http://www.foodanalytics.local:8082')
+
 
